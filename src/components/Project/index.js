@@ -21,7 +21,7 @@ function Project({ name, stargazers_count, description, html_url }) {
           colorName="gray.200"
           fontSizeName="xl"
           colorValue="gray.500"
-          fontSizeValue="md"
+          fontSizeValue="xl"
         />
         <DataProfile
           name="Descripción:"
@@ -29,7 +29,7 @@ function Project({ name, stargazers_count, description, html_url }) {
           colorName="gray.200"
           fontSizeName="xl"
           colorValue="gray.500"
-          fontSizeValue="md"
+          fontSizeValue="xl"
         />
       </Stack>
       <Stack
